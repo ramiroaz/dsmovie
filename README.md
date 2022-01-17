@@ -11,7 +11,7 @@ Projeto criado na Semana Spring React da DevSuperior.
 # BACKEND.
 * Java Spring.
 * Modelo de domínio.
-* Bando de dados PostgreSql.
+* Banco de dados PostgreSql.
 * Padrão de camadas ().
 * EndPoint API Rest.
 * Publicado na nuvem : Heroku.
